@@ -11,16 +11,7 @@
     <projectFile kind="XamarinMacOS">TodoApp/TodoApp.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73828ef5-2bd5-48aa-aa42-41bc49b8b56b" name="Changes" comment="Fixed delete issue">
-      <change afterPath="$PROJECT_DIR$/TodoApp/DetailPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoApp/DetailPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoApp/ViewModel/DetailViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TodoApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TodoApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/AppShell.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/AppShell.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/MainPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/MauiProgram.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/MauiProgram.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/ViewModel/MainViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/ViewModel/MainViewModel.cs" afterDir="false" />
-    </list>
+    <list default="true" id="73828ef5-2bd5-48aa-aa42-41bc49b8b56b" name="Changes" comment="final part of course to add Internet connectivity  and Alert box" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675462811772</updated>
-      <workItem from="1675462813143" duration="19110000" />
+      <workItem from="1675462813143" duration="19798000" />
     </task>
     <task id="LOCAL-00001" summary="Part1 complete">
       <created>1675479829954</created>
@@ -124,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675539633989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="final part of course to add Internet connectivity  and Alert box">
+      <created>1675543446242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675543446242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +134,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Part1 complete" />
     <MESSAGE value="Fixed delete issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed delete issue" />
+    <MESSAGE value="final part of course to add Internet connectivity  and Alert box" />
+    <option name="LAST_COMMIT_MESSAGE" value="final part of course to add Internet connectivity  and Alert box" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
